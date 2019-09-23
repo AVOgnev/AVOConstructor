@@ -6,8 +6,12 @@
 //  Copyright © 2019 Anton. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
-class InfoViewController {
+class InfoViewController: UIViewController {
+    
+    var titleLabel: UILabel {
+        return UILabel()
+    }
     
 }
