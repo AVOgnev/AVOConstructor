@@ -15,6 +15,7 @@
 		3AD93F7C23379809007DD483 /* AVOgnevTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD93F7B23379809007DD483 /* AVOgnevTests.swift */; };
 		3AD93F8723379809007DD483 /* AVOgnevUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD93F8623379809007DD483 /* AVOgnevUITests.swift */; };
 		3AD93F9823395BA7007DD483 /* AVONewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD93F9723395BA7007DD483 /* AVONewsViewController.swift */; };
+		3AD93F9C23395E46007DD483 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD93F9B23395E46007DD483 /* InfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3AD93F8623379809007DD483 /* AVOgnevUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVOgnevUITests.swift; sourceTree = "<group>"; };
 		3AD93F8823379809007DD483 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3AD93F9723395BA7007DD483 /* AVONewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVONewsViewController.swift; sourceTree = "<group>"; };
+		3AD93F9B23395E46007DD483 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3AD93F6623379807007DD483 /* AppDelegate.swift */,
 				3AD93F6823379807007DD483 /* ViewController.swift */,
 				3AD93F9723395BA7007DD483 /* AVONewsViewController.swift */,
+				3AD93F9B23395E46007DD483 /* InfoViewController.swift */,
 				3AD93F6A23379807007DD483 /* Main.storyboard */,
 				3AD93F6D23379809007DD483 /* Assets.xcassets */,
 				3AD93F6F23379809007DD483 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				3AD93F6923379807007DD483 /* ViewController.swift in Sources */,
 				3AD93F9823395BA7007DD483 /* AVONewsViewController.swift in Sources */,
+				3AD93F9C23395E46007DD483 /* InfoViewController.swift in Sources */,
 				3AD93F6723379807007DD483 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
