@@ -10,8 +10,9 @@ import UIKit
 
 class InfoViewController: UIViewController {
     
-    var titleLabel: UILabel {
-        return UILabel()
-    }
+    lazy var titleLabel : UILabel = {
+        var label = UILabel()
+        return label
+    }()
     
 }
